@@ -1,1 +1,9 @@
-# Basics-of-programming-QA-Engineer-
+Next task are done:
+2. Массивы - Сумма элементов в массиве.
+3. Найти минимальный и максимальный элемент в массиве (2 способа = встроенной функцией и через ручной перебор элементов)
+4. Массивы - Нахождение общих элементов двух массивов(2 способа = встроенной функцией и через ручной перебор элементов)
+5. Строки - Подсчитать количество вхождений слова в предложении
+For chening result via console - just run node BasicsOfProgramming.js
+Or run open UiBasicsOfProgramming.html and see Console
+
+
